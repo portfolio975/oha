@@ -1,0 +1,16 @@
+/*----------------------------------------------------------
+// pc
+----------------------------------------------------------*/
+@media screen and (min-width: 768px) {
+  .news__title {
+    font-size: 300px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .news__title {
+    font-size: 300px;
+  }
+  .news__link a {
+    font-size: 300px;
+  }
+}
